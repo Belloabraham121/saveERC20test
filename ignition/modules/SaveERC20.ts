@@ -12,3 +12,4 @@ const SaveERC20Module = buildModule("SaveERC20Module", (m) => {
 export default SaveERC20Module;
 
 // Deployed SaveERC20: 0xA48f1b35603434c642fC3B23F8D1861dC3B1e0DD
+
